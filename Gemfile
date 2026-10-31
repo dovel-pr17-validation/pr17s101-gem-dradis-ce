@@ -32,10 +32,10 @@ gem 'jbuilder', '~> 2.13'
 # gem 'image_processing', '~> 1.2'
 
 # Reduces boot times through caching; required in config/boot.rb
-gem 'bootsnap', '>= 1.12.0', require: false
+gem 'bootsnap', '>= 1.26.1', require: false
 
 # ---------------------------------------------------- Dradis Community Edition
-gem 'bootstrap', '~> 5.2.3'
+gem 'bootstrap', '~> 5.3.8'
 gem 'jquery-rails'
 gem 'jquery-fileupload-rails', '~> 0.3.4'
 gem 'jquery-hotkeys-rails'
